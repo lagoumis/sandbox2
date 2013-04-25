@@ -1,0 +1,4 @@
+name = Sandbox2
+description = Installation profile for Sandbox2
+version = 1.0
+core = 7.x
